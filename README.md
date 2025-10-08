@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Alex Degerman, a junior web developer specializing in React and Node.js
+# 👋 Hi, I'm Alex Degerman, a junior web developer specializing in React and Node.js
 
 - I enjoy building responsive, user-focused web apps and exploring modern React ecosystems.
 - Passionate about teamwork — I enjoy working in **Scrum and Agile** environments.  
@@ -28,7 +28,7 @@
 
 #  Featured Projects
 
-### 🎬Full-Stack App — *MovieCritic*
+### 🎬 Full-Stack App — *MovieCritic*
 
 **A movie discovery and review platform with infinite scroll and user authentication.**  
 Browse 12,000+ movies powered by the TMDb API and share reviews with the community. Features responsive design, efficient state management, and secure authentication.
@@ -36,17 +36,17 @@ Browse 12,000+ movies powered by the TMDb API and share reviews with the communi
 <img src="./assets/moviecritic-homepage.png" alt="MovieCritic Homepage" width="400">
 
 **Key Features:**
-- Infinite-scroll movie browsing
-- Movie reviews
+- Infinite-scroll movie browsing with search and genre filters
+- Community-driven movie reviews and ratings
 - Smooth, reactive UI with React + Zustand
 - Secure access with JWT authentication and Google reCAPTCHA v3
+- Auto-login demo mode for instant exploration
 
 **Tech Stack:**  
 React • Zustand • Vite • Node.js • Express • MySQL (Sequelize) • Azure SQL • JWT • reCAPTCHA v3 • Docker • Render
 
-**Links:** 
-- [Live](https://moviecriticfi.onrender.com) 
-- [Repo](https://github.com/AlexDegerman/MovieCritic)
+**Links:**  
+🌐 [Live Demo](https://moviecriticfi.onrender.com) (auto-login enabled) • 📂 [Repository](https://github.com/AlexDegerman/MovieCritic)
 
 ---
 
@@ -64,8 +64,7 @@ An e-commerce SPA for browsing and filtering products, viewing individual produc
 React • TypeScript • Zustand • Tailwind • Next.js • Jest
 
 **Links:**  
-- [Live](https://e-commerce-app-next-red.vercel.app)
-- [Repo](https://github.com/AlexDegerman/e-commerce-app-ts)
+🌐 [Live Demo](https://e-commerce-app-next-red.vercel.app) • 📂 [Repository](https://github.com/AlexDegerman/e-commerce-app-ts)
 
 ---
 
@@ -75,15 +74,14 @@ Check the weather for any city with a clean interface.
 <img src="./assets/weatherapp-homepage.png" alt="Weather App Homepage" width="200">
 
 **Features:**
-- Search any city’s weather
+- Search any city's weather
 - Google OAuth2 login (displays Google username)
 
 **Tech Stack:** 
 React • TypeScript • Tailwind • Redux • Next.js • WeatherAPI • Jest • OAuth 2.0
 
-**Links:** 
-- [Live](https://weather-app-next-rosy.vercel.app)  
-- [Repo](https://github.com/AlexDegerman/weather-app-ts)
+**Links:**  
+🌐 [Live Demo](https://weather-app-next-rosy.vercel.app) • 📂 [Repository](https://github.com/AlexDegerman/weather-app-ts)
 
 ---
 
@@ -100,5 +98,4 @@ A simple task management SPA to create, track, and organize todos.
 React • TypeScript • Redux • Tailwind • Vite • Vitest
 
 **Links:**  
-- [Live](https://alexdegerman.github.io/to-do-app-ts)  
-- [Repo](https://github.com/AlexDegerman/to-do-app-ts)
+🌐 [Live Demo](https://alexdegerman.github.io/to-do-app-ts) • 📂 [Repository](https://github.com/AlexDegerman/to-do-app-ts)
