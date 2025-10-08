@@ -64,12 +64,12 @@ An e-commerce SPA for browsing and filtering products, viewing individual produc
 React • TypeScript • Zustand • Tailwind • Next.js • Jest
 
 **Links:**  
-🌐 [Live Demo](https://e-commerce-app-next-red.vercel.app) • 📂 [Repository](https://github.com/AlexDegerman/e-commerce-app-ts)
+🌐 [Live Demo](https://e-commerce-app-next-red.vercel.app) • 📂 [Repository](https://github.com/AlexDegerman/e-commerce-app-next)
 
 ---
 
 ### 🌤️ Weather App
-Check the weather for any city with a clean interface.
+Check the weather for any city with a clean interface and 2-day forecast.
 
 <img src="./assets/weatherapp-homepage.png" alt="Weather App Homepage" width="200">
 
@@ -81,7 +81,7 @@ Check the weather for any city with a clean interface.
 React • TypeScript • Tailwind • Redux • Next.js • WeatherAPI • Jest • OAuth 2.0
 
 **Links:**  
-🌐 [Live Demo](https://weather-app-next-rosy.vercel.app) • 📂 [Repository](https://github.com/AlexDegerman/weather-app-ts)
+🌐 [Live Demo](https://weather-app-next-rosy.vercel.app) • 📂 [Repository](https://github.com/AlexDegerman/weather-app-next)
 
 ---
 
