@@ -1,5 +1,6 @@
 # 👋 Hi, I'm Alex Degerman, a junior web developer specializing in React and Node.js
 
+- Looking for junior full-stack opportunities in Helsinki or remote, specializing in React + Node.js.
 - I enjoy building responsive, user-focused web apps and exploring modern React ecosystems.
 - Passionate about teamwork — I enjoy working in **Scrum and Agile** environments.  
 - Reach me at [alex.degerman.dev@gmail.com](mailto:alex.degerman.dev@gmail.com) · [LinkedIn](https://www.linkedin.com/in/alex-degerman-402907245/?locale=en_US)  
