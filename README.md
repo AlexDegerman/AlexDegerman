@@ -34,7 +34,9 @@
 **A movie discovery and review platform with infinite scroll and user authentication.**  
 Browse 12,000+ movies powered by the TMDb API and share reviews with the community. Features responsive design, efficient state management, and secure authentication.
 
-<img src="./assets/moviecritic-homepage.png" alt="MovieCritic Homepage" width="400">
+![Infinite Scroll Demo](./assets/infinitescroll.gif)  
+[Full 1080p 60fps demo](https://youtu.be/67wY0n5HYX0)
+
 
 **Key Features:**
 - Infinite-scroll movie browsing with search and genre filters
