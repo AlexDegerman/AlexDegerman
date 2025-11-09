@@ -46,7 +46,7 @@ Browse 12,000+ movies powered by the TMDb API and share reviews with the communi
 - Auto-login demo mode for instant exploration
 
 **Tech Stack:**  
-React • Zustand • Vite • Node.js • Express • MySQL (Sequelize) • Azure SQL • JWT • reCAPTCHA v3 • Docker • Render
+React • Zustand • Vite • Node.js • Express • MySQL (Sequelize) • Aiven • JWT • reCAPTCHA v3 • Docker • Render
 
 **Links:**  
 🌐 [Live Demo](https://moviecriticfi.onrender.com) (auto-login enabled) • 📂 [Repository](https://github.com/AlexDegerman/MovieCritic)
