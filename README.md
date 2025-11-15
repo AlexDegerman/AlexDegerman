@@ -2,7 +2,7 @@
 
 **Junior Full-Stack Developer | React • Node.js • MySQL**
 
-Self-taught React and Node.js developer after learning Angular/Spring Boot in school. When I couldn't secure an internship, I researched what the market needed and pivoted to a modern stack. Built MovieCritic as my thesis project, a full-stack movie platform over four months. Now seeking my first professional role in Helsinki.
+Self-taught React and Node.js developer after learning Angular/Spring Boot in school. When I couldn't secure an internship, I researched what the market needed and pivoted to a modern stack. Built MovieCritic as my final project, a full-stack movie platform over four months. Now seeking my first professional role in Helsinki.
 
 - 🔭 Currently: Seeking junior full-stack opportunities in Helsinki (remote-friendly)
 - 🌱 Learning: Building production-ready web applications with modern JavaScript
@@ -35,7 +35,7 @@ Self-taught React and Node.js developer after learning Angular/Spring Boot in sc
 
 ### 🎬 Full-Stack App — *MovieCritic*
 
-**Thesis project: A movie discovery and review platform with infinite scroll and user authentication.**  
+**Final project: A movie discovery and review platform with infinite scroll and user authentication.**  
 Browse 12,000+ movies powered by the TMDb API and share reviews with the community. Four months of development from planning documentation to production deployment.
 
 ![Infinite Scroll Demo](./assets/infinitescroll.gif)  
