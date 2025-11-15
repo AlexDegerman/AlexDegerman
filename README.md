@@ -1,10 +1,14 @@
-# 👋 Hi, I'm Alex Degerman, a junior web developer specializing in React and Node.js
+# 👋 Hi, I'm Alex Degerman
 
-- Looking for junior full-stack opportunities in Helsinki or remote, specializing in React + Node.js.
-- I enjoy building responsive, user-focused web apps and exploring modern React ecosystems.
-- Passionate about teamwork — I enjoy working in **Scrum and Agile** environments.  
-- Reach me at [alex.degerman.dev@gmail.com](mailto:alex.degerman.dev@gmail.com) · [LinkedIn](https://www.linkedin.com/in/alex-degerman-402907245/?locale=en_US)  
-- Based in Helsinki, Finland
+**Junior Full-Stack Developer | React • Node.js • MySQL**
+
+Self-taught React and Node.js developer after learning Angular/Spring Boot in school. When I couldn't secure an internship, I researched what the market needed and pivoted to a modern stack. Built MovieCritic as my thesis project, a full-stack movie platform over four months. Now seeking my first professional role in Helsinki.
+
+- 🔭 Currently: Seeking junior full-stack opportunities in Helsinki (remote-friendly)
+- 🌱 Learning: Building production-ready web applications with modern JavaScript
+- 💼 Available: Eligible for palkkatuki + Helsinki-lisä (wage subsidy)
+- 📫 Reach me at [alex.degerman.dev@gmail.com](mailto:alex.degerman.dev@gmail.com) · [LinkedIn](https://www.linkedin.com/in/alex-degerman-402907245/?locale=en_US)
+- 📍 Based in Helsinki, Finland
 
 ---
 
@@ -27,16 +31,15 @@
 
 ---
 
-#  Featured Projects
+## 🎯 Featured Projects
 
 ### 🎬 Full-Stack App — *MovieCritic*
 
-**A movie discovery and review platform with infinite scroll and user authentication.**  
-Browse 12,000+ movies powered by the TMDb API and share reviews with the community. Features responsive design, efficient state management, and secure authentication.
+**Thesis project: A movie discovery and review platform with infinite scroll and user authentication.**  
+Browse 12,000+ movies powered by the TMDb API and share reviews with the community. Four months of development from planning documentation to production deployment.
 
 ![Infinite Scroll Demo](./assets/infinitescroll.gif)  
 [Full 1080p 60fps demo](https://youtu.be/67wY0n5HYX0)
-
 
 **Key Features:**
 - Infinite-scroll movie browsing with search and genre filters
