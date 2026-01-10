@@ -7,7 +7,7 @@ Junior full-stack developer who pivoted from Angular/Spring Boot to React/Node.j
 Now seeking my first professional role where I can bring this ownership mindset to a team.
 
 - 🔭 **Currently:** Building production-ready applications and seeking junior full-stack opportunities in Helsinki (remote-friendly)
-- 💼 **Available:** Eligible for palkkatuki + Helsinki-lisä (50%+ hiring cost reduction)
+- 💼 **Available:** Eligible for palkkatuki or Helsinki-lisä which can reduce hiring costs by up to 50%
 - 🌱 **Learning:** Advanced React patterns, backend architecture, and cloud infrastructure
 - 📫 **Contact** [alex.degerman.dev@gmail.com](mailto:alex.degerman.dev@gmail.com) · [LinkedIn](https://www.linkedin.com/in/alex-degerman-402907245)
 - 📍 **Location:** Helsinki, Finland
