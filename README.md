@@ -51,6 +51,9 @@ Now seeking my first professional role where I can bring this ownership mindset 
 ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat&logo=railway&logoColor=white) 
 ![Aiven](https://img.shields.io/badge/Aiven-blue?style=flat)
 
+### AI & Development Tools
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=flat)
+![Claude](https://img.shields.io/badge/Claude-191919?style=flat&logo=anthropic&logoColor=white)
 
 ---
 
