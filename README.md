@@ -2,7 +2,7 @@
 
 **Junior Full-Stack Developer | React • Node.js • MySQL**
 
-Junior full-stack developer who pivoted from Angular/Spring Boot to React/Node.js after researching market demand. When internship applications didn't convert, I built MovieCritic instead, a production-ready movie platform with 12,000+ movies, authentication, and multilingual support. Completed the full development lifecycle from planning to deployment in 4 months.
+Junior full-stack developer who researched market demand and pivoted from Angular/Spring Boot to React/Node.js. I built MovieCritic, a production-ready movie platform with 12,000+ movies, authentication, and multilingual support, completing the full development lifecycle from planning to deployment in 4 months.
 
 Now seeking my first professional role where I can bring this ownership mindset to a team.
 
