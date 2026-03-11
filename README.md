@@ -2,13 +2,13 @@
 
 **Junior Full-Stack Developer | React • Node.js • MySQL**
 
-Junior full-stack developer who researched market demand and pivoted from Angular/Spring Boot to React/Node.js. I built MovieCritic, a production-ready movie platform with 12,000+ movies, authentication, and multilingual support, completing the full development lifecycle from planning to deployment in 4 months.
+Helsinki-based junior full-stack developer building production-ready web applications. I built MovieCritic, a full-stack movie platform with 12,000+ movies, secure authentication, and multilingual support, completing the full development lifecycle from planning to deployment.  
 
-Now seeking my first professional role where I can bring this ownership mindset to a team.
+Now seeking my first professional role where I can contribute end-to-end development experience and take ownership of meaningful projects.  
 
-- 🔭 **Currently:** Building production-ready applications and seeking junior full-stack opportunities in Helsinki (remote-friendly)
-- 💼 **Available:** Eligible for palkkatuki or Helsinki-lisä which can reduce hiring costs by up to 50%
-- 🌱 **Learning:** Advanced React patterns, backend architecture, and cloud infrastructure
+- 🔭 **Currently:** Building production-ready applications and seeking junior full-stack opportunities in Helsinki or remotely elsewhere
+- 💼 **Available:** Eligible for Helsinki-lisä + nuorten rekrytointituki in Helsinki or palkkatuki elsewhere in Finland, significantly reducing hiring costs  
+- 🌱 **Learning:** Advanced React patterns, backend architecture, and cloud infrastructure  
 - 📫 **Contact** [alex.degerman.dev@gmail.com](mailto:alex.degerman.dev@gmail.com) · [LinkedIn](https://www.linkedin.com/in/alex-degerman-402907245)
 - 📍 **Location:** Helsinki, Finland
 
