@@ -70,7 +70,8 @@ Browse movies powered by the TMDb API, share reviews with the community, and exp
 [Full 1080p 60fps demo](https://youtu.be/67wY0n5HYX0)
 
 **Key Features:**
-- Infinite-scroll movie browsing with search and genre filters
+- Infinite scroll with debounced scroll detection and preemptive loading at 80% scroll depth for seamless UX, no pagination buttons, no jarring jumps
+- Movie browsing with search and genre filters, seeded random order preserved across pages
 - Community-driven movie reviews and ratings
 - Smooth, reactive UI with React + Zustand
 - Secure access with JWT authentication and Google reCAPTCHA v3
