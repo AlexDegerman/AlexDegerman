@@ -9,7 +9,7 @@ Now seeking my first professional role where I can contribute end-to-end develop
 - 🔭 **Currently:** Building production-ready applications and seeking junior full-stack opportunities in Helsinki or remotely elsewhere
 - 💼 **Available:** Eligible for Helsinki-lisä + nuorten rekrytointituki in Helsinki or palkkatuki elsewhere in Finland, significantly reducing hiring costs  
 - 🌱 **Learning:** Advanced React patterns, backend architecture, and cloud infrastructure  
-- 📫 **Contact** [alex.degerman.dev@gmail.com](mailto:alex.degerman.dev@gmail.com) · [LinkedIn](https://www.linkedin.com/in/alex-degerman-402907245)
+- 📫 **Contact** [alex.degerman.dev@gmail.com](mailto:alex.degerman.dev@gmail.com) · [LinkedIn](https://www.linkedin.com/in/alex-degerman)
 - 📍 **Location:** Helsinki, Finland
 
 ---
@@ -21,6 +21,7 @@ Now seeking my first professional role where I can contribute end-to-end develop
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) 
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white) 
 ![Express](https://img.shields.io/badge/Express-404D59?style=flat) 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white) 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
@@ -50,8 +51,10 @@ Now seeking my first professional role where I can contribute end-to-end develop
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white) 
 ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat&logo=railway&logoColor=white) 
 ![Aiven](https://img.shields.io/badge/Aiven-blue?style=flat)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
 
 ### AI & Development Tools
+![Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=flat&logo=googlegemini&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=flat)
 ![Claude](https://img.shields.io/badge/Claude-191919?style=flat&logo=anthropic&logoColor=white)
 
@@ -60,6 +63,25 @@ Now seeking my first professional role where I can contribute end-to-end develop
 ## 🎯 Featured Projects
 
 Building full-stack applications from planning through production deployment.
+
+### 🎲 Full-Stack App — *RPS League App*
+
+**Real-time Rock Paper Scissors betting platform with live SSE feeds, dynamic odds, and AI analysis.** A fast-paced league web app where players bet virtual points on live matches, track rankings, and explore analytics. Originally built as a summer dev assignment for Reaktor as a simple match viewer, now rebuilt into a full real-time betting platform capable of handling high-frequency concurrency streams.
+
+![RPS League Demo](./assets/rps.gif)
+
+**Key Features:**
+- High-frequency match system (5s intervals, 3s decision window) with dynamic betting odds
+- Live activity feed using Server-Sent Events (SSE), prioritizing real user bets and maintaining continuous demo traffic.
+- Zero-friction onboarding for instant anonymous play with secure profile recovery codes
+- AI-powered match analysis utilizing Google Gemini with RAG-style context construction
+- Custom React event processing system preventing UI stutter and state thrashing during high-frequency data streams
+
+**Tech Stack:** React • TypeScript • Tailwind CSS • Next.js • Node.js • Express • Supabase (PostgreSQL) • Server-Sent Events (SSE) • Gemini AI • Vitest
+
+**Links:** 🌐 [Live Demo](https://rpsleaguegame.vercel.app/) • 📂 [Repository](https://github.com/AlexDegerman/rps-league-app)
+
+---
 
 ### 🎬 Full-Stack App — *MovieCritic*
 
