@@ -1,16 +1,15 @@
-# 👋 Hi, I'm Alex Degerman
+### 👋 Hi, I'm Alex Degerman
 
-**Junior Full-Stack Developer | React • Node.js • MySQL**
+**Junior Full-Stack Developer | React • Node.js • TypeScript • PostgreSQL**
 
-Helsinki-based junior full-stack developer building production-ready web applications. I built MovieCritic, a full-stack movie platform with 12,000+ movies, secure authentication, and multilingual support, completing the full development lifecycle from planning to deployment.  
+Helsinki-based full-stack developer focused on building high-performance, production-ready applications. I specialize in connecting complex backend systems with smooth, high-concurrency frontend experiences.
 
-Now seeking my first professional role where I can contribute end-to-end development experience and take ownership of meaningful projects.  
+I have experience working in **Scrum-based teams** (Angular/Spring Boot) as well as independently delivering full-stack projects from architecture to cloud deployment. I also use AI tools as a technical sounding board for rapid prototyping and solving complex engineering challenges.
 
-- 🔭 **Currently:** Building production-ready applications and seeking junior full-stack opportunities in Helsinki or remotely elsewhere
-- 💼 **Available:** Eligible for Helsinki-lisä + nuorten rekrytointituki in Helsinki or palkkatuki elsewhere in Finland, significantly reducing hiring costs  
-- 🌱 **Learning:** Advanced React patterns, backend architecture, and cloud infrastructure  
+* 🚀 **Latest Release:** [RPS League](https://rpsleaguegame.vercel.app) - A real-time prediction platform handling **100k+ events** and **17k+ matches** daily.
+* 💼 **Available:** Eligible for **Helsinki-lisä** + **Nuorten rekrytointituki**, significantly reducing hiring costs for Finnish teams.
 - 📫 **Contact** [alex.degerman.dev@gmail.com](mailto:alex.degerman.dev@gmail.com) · [LinkedIn](https://www.linkedin.com/in/alex-degerman)
-- 📍 **Location:** Helsinki, Finland
+* 📍 **Location:** Helsinki, Finland (Open to Hybrid/Remote)
 
 ---
 
