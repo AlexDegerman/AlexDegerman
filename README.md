@@ -71,11 +71,11 @@ Building full-stack applications from planning through production deployment.
 ![RPS League Demo](./assets/rps.gif)
 
 **Key Features:**
-- High-frequency match system (5s intervals, 3s decision window) with dynamic betting odds
-- Live activity feed using Server-Sent Events (SSE), prioritizing real user bets and maintaining continuous demo traffic.
-- Zero-friction onboarding for instant anonymous play with secure profile recovery codes
-- AI-powered match analysis utilizing Google Gemini with RAG-style context construction
-- Custom React event processing system preventing UI stutter and state thrashing during high-frequency data streams
+- **High-Frequency Engine**: 5s match cycles (17k+ daily) with dynamic odds and a 100k point-floor to protect user liquidity.
+- **Concurrency-Aware SSE**: Real-time event stream processing 1M+ total events, prioritizing live player actions over demo traffic.
+- **Stateful UX**: Zero-friction anonymous play with persistent profiles, recovery codes, and URL-synchronized leaderboards.
+- **AI Oracle (Gemini)**: Domain-specific analytics agent providing snarky insights grounded in a 10,000+ match historical dataset.
+- **Performance Engineering**: Custom React buffer and GPU-accelerated ticker preventing UI thrashing during 1.2+ EPS (events/sec).
 
 **Tech Stack:** React • TypeScript • Tailwind CSS • Next.js • Node.js • Express • Supabase (PostgreSQL) • Server-Sent Events (SSE) • Gemini AI • Vitest
 
