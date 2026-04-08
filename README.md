@@ -8,7 +8,7 @@ I have experience working in **Scrum-based teams** (Angular/Spring Boot) as well
 
 * 🚀 **Latest Release:** [RPS League](https://rpsleaguegame.vercel.app) - A real-time prediction platform handling **100k+ events** and **17k+ matches** daily.
 * 💼 **Available:** Eligible for **Helsinki-lisä** + **Nuorten rekrytointituki**, significantly reducing hiring costs for Finnish teams.
-- 📫 **Contact** [alex.degerman.dev@gmail.com](mailto:alex.degerman.dev@gmail.com) · [LinkedIn](https://www.linkedin.com/in/alex-degerman)
+* 📫 **Contact** [alex.degerman.dev@gmail.com](mailto:alex.degerman.dev@gmail.com) · [LinkedIn](https://www.linkedin.com/in/alex-degerman)
 * 📍 **Location:** Helsinki, Finland (Open to Hybrid/Remote)
 
 ---
