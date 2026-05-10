@@ -76,7 +76,7 @@ Building full-stack applications from planning through production deployment.
 - **AI Oracle (Gemini)**: Domain-specific analytics agent providing snarky insights grounded in a 10,000+ match historical dataset.
 - **Performance Engineering**: Custom React buffer and GPU-accelerated ticker preventing UI thrashing during 1.2+ EPS (events/sec).
 
-**Tech Stack:** React • TypeScript • Tailwind CSS • Next.js • Node.js • Express • Supabase (PostgreSQL) • Server-Sent Events (SSE) • Gemini AI • Vitest
+**Tech Stack:** React • TypeScript • Tailwind CSS • Next.js • Zustand • Node.js • Express • Supabase (PostgreSQL) • Server-Sent Events (SSE) • Gemini AI • Vitest
 
 **Links:** 🌐 [Live Demo](https://rpsleaguegame.vercel.app/) • 📂 [Repository](https://github.com/AlexDegerman/rps-league-app)
 
