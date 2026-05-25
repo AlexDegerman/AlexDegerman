@@ -6,53 +6,66 @@ Helsinki-based full-stack developer focused on building high-performance, produc
 
 I have experience working in **Scrum-based teams** (Angular/Spring Boot) as well as independently delivering full-stack projects from architecture to cloud deployment. I also use AI tools as a technical sounding board for rapid prototyping and solving complex engineering challenges.
 
-* 🚀 **Latest Release:** [RPS League](https://rpsleaguegame.vercel.app) - A real-time prediction platform handling **100k+ events** and **17k+ matches** daily.
-* 💼 **Available:** Eligible for **Helsinki-lisä** + **Nuorten rekrytointituki**, significantly reducing hiring costs for Finnish teams.
-* 📫 **Contact** [alex.degerman.dev@gmail.com](mailto:alex.degerman.dev@gmail.com) · [LinkedIn](https://www.linkedin.com/in/alex-degerman)
-* 📍 **Location:** Helsinki, Finland (Open to Hybrid/Remote)
+- 🚀 **Latest Release:** [RPS League](https://rpsleaguegame.vercel.app) - A real-time prediction platform handling **100k+ events** and **17k+ matches** daily.
+- 💼 **Available:** Eligible for **Helsinki-lisä** + **Nuorten rekrytointituki**, significantly reducing hiring costs for Finnish teams.
+- 📫 **Contact** [alex.degerman.dev@gmail.com](mailto:alex.degerman.dev@gmail.com) · [LinkedIn](https://www.linkedin.com/in/alex-degerman)
+- 📍 **Location:** Helsinki, Finland (Open to Hybrid/Remote)
 
 ---
 
 ## 🔥 Tech Stack
 
 ### **Core**
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) 
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white) 
-![Express](https://img.shields.io/badge/Express-404D59?style=flat) 
+
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-404D59?style=flat)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white) 
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 ### **State Management & Testing**
-![Zustand](https://img.shields.io/badge/Zustand-5E4B8B?style=flat&logo=react&logoColor=white) 
-![Redux Toolkit](https://img.shields.io/badge/Redux%20Toolkit-764ABC?style=flat&logo=redux&logoColor=white) 
-![Jest](https://img.shields.io/badge/Jest-323330?logo=Jest&logoColor=white&style=flat) 
-![Vitest](https://img.shields.io/badge/Vitest-6E9F18?logo=vitest&logoColor=white&style=flat) 
+
+![Zustand](https://img.shields.io/badge/Zustand-5E4B8B?style=flat&logo=react&logoColor=white)
+![Redux Toolkit](https://img.shields.io/badge/Redux%20Toolkit-764ABC?style=flat&logo=redux&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-323330?logo=Jest&logoColor=white&style=flat)
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?logo=vitest&logoColor=white&style=flat)
 ![React Testing Library](https://img.shields.io/badge/Testing%20Library-fff?logo=testing-library&style=flat)
 
 ### **Frontend Styling & Frameworks**
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white) 
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white) 
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 
 ### **Backend & Security**
-![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=flat&logo=sequelize&logoColor=white) 
-![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens) 
-![OAuth 2.0](https://img.shields.io/badge/OAuth_2.0-3D9970?style=flat&logo=auth0&logoColor=white) 
+
+![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=flat&logo=sequelize&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens)
+![OAuth 2.0](https://img.shields.io/badge/OAuth_2.0-3D9970?style=flat&logo=auth0&logoColor=white)
 ![reCAPTCHA](https://img.shields.io/badge/reCAPTCHA-4285F4?style=flat&logo=google&logoColor=white)
 
-### **DevOps & Deployment**
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) 
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white) 
-![Render](https://img.shields.io/badge/Render-000000?style=flat&logo=render&logoColor=white) 
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white) 
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white) 
-![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat&logo=railway&logoColor=white) 
+### DevOps & Deployment
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+![Render](https://img.shields.io/badge/Render-000000?style=flat&logo=render&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+
+### Cloud & Database Infrastructure
+
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat&logo=railway&logoColor=white)
 ![Aiven](https://img.shields.io/badge/Aiven-blue?style=flat)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
 
+### Monitoring & Observability
+
+![Sentry](https://img.shields.io/badge/Sentry-362D59?style=flat&logo=sentry&logoColor=white)
+
 ### AI & Development Tools
+
 ![Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=flat&logo=googlegemini&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=flat)
 ![Claude](https://img.shields.io/badge/Claude-191919?style=flat&logo=anthropic&logoColor=white)
@@ -63,13 +76,14 @@ I have experience working in **Scrum-based teams** (Angular/Spring Boot) as well
 
 Building full-stack applications from planning through production deployment.
 
-### 🎲 Full-Stack App — *RPS League App*
+### 🎲 Full-Stack App - _RPS League App_
 
 **Real-time Rock Paper Scissors betting platform with live SSE feeds, dynamic odds, and AI analysis.** A fast-paced league web app where players bet virtual points on live matches, track rankings, and explore analytics. Originally built as a summer dev assignment for Reaktor as a simple match viewer, now rebuilt into a full real-time betting platform capable of handling high-frequency concurrency streams.
 
 ![RPS League Demo](./assets/rps.gif)
 
 **Key Features:**
+
 - **High-Frequency Engine**: 5s match cycles (17k+ daily) with dynamic odds and a 100k point-floor to protect user liquidity.
 - **Concurrency-Aware SSE**: Real-time event stream processing 1M+ total events, prioritizing live player actions over demo traffic.
 - **Stateful UX**: Zero-friction anonymous play with persistent profiles, recovery codes, and URL-synchronized leaderboards.
@@ -82,7 +96,7 @@ Building full-stack applications from planning through production deployment.
 
 ---
 
-### 🎬 Full-Stack App — *MovieCritic*
+### 🎬 Full-Stack App - _MovieCritic_
 
 **Full-stack movie discovery platform with infinite scroll, authentication, and 12,000+ movies.**  
 Browse movies powered by the TMDb API, share reviews with the community, and explore multilingual content (EN/FI). Built from concept to production deployment in 3 months, demonstrating end-to-end development capabilities.
@@ -91,6 +105,7 @@ Browse movies powered by the TMDb API, share reviews with the community, and exp
 [Full 1080p 60fps demo](https://youtu.be/67wY0n5HYX0)
 
 **Key Features:**
+
 - Infinite scroll with debounced scroll detection and preemptive loading at 80% scroll depth for seamless UX, no pagination buttons, no jarring jumps
 - Movie browsing with search and genre filters, seeded random order preserved across pages
 - Community-driven movie reviews and ratings
@@ -106,6 +121,31 @@ React • Zustand • Vite • Node.js • Express • MySQL (Sequelize) • Aiv
 
 ---
 
+### 🌙 Firefox Extension - Lightweight Dark Mode Viewer
+
+A performance-first dark mode extension for Firefox. One CSS filter, no DOM loops, no background processing.
+
+Built to avoid the lag common in stylesheet-parsing dark mode tools. Applies a single GPU-accelerated `filter: invert(1) hue-rotate(180deg)` rule.
+
+![Lightweight Dark Mode viewer Demo](./assets/darkmodeviewer.png)
+
+---
+
+**Key ideas:**
+
+- CSS-only injection (no MutationObserver or runtime loops)
+- Per-site toggle state using `browser.storage.local`
+- Safe content script re-injection to handle race conditions
+- Heuristic dark page detection via background luminance sampling
+
+---
+
+**Tech:** Vanilla JS • CSS Filters • WebExtensions API (MV2)
+
+**Links:** 🦊 [Firefox Add-ons](AMO_LINK) • 📂 [Repository](https://github.com/AlexDegerman/lightweight-dark-mode-viewer)
+
+---
+
 ### 🛒 E-commerce Website
 
 **Modern e-commerce SPA demonstrating product catalog, filtering, and cart management.**
@@ -115,6 +155,7 @@ Showcases practical e-commerce patterns with carousel, category filtering, produ
 <img src="./assets/ecommerceapp-homepage.png" alt="EcommerceApp Homepage" width="280">
 
 **Key Features:**
+
 - Featured product carousel and category-based filtering
 - Dynamic product catalog with individual detail pages
 - Shopping cart with real-time total calculation
@@ -142,6 +183,7 @@ Simple weather application integrating WeatherAPI with Google OAuth2 login. Demo
 ---
 
 ### 📝 Todo App
+
 Task management SPA with filtering, sorting, and completion tracking.
 
 <img src="./assets/todoapp-homepage.png" alt="Todo App Homepage" width="250">
