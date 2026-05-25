@@ -142,7 +142,7 @@ Built to avoid the lag common in stylesheet-parsing dark mode tools. Applies a s
 
 **Tech:** Vanilla JS • CSS Filters • WebExtensions API (MV2)
 
-**Links:** 🦊 [Firefox Add-ons](AMO_LINK) • 📂 [Repository](https://github.com/AlexDegerman/lightweight-dark-mode-viewer)
+**Links:** 🦊 [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/lightweight-dark-mode-viewer/) • 📂 [Repository](https://github.com/AlexDegerman/lightweight-dark-mode-viewer)
 
 ---
 
