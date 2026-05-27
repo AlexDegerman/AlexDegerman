@@ -121,31 +121,6 @@ React • Zustand • Vite • Node.js • Express • MySQL (Sequelize) • Aiv
 
 ---
 
-### 🌙 Firefox Extension - Lightweight Dark Mode Viewer
-
-A performance-first dark mode extension for Firefox. One CSS filter, no DOM loops, no background processing.
-
-Built to avoid the lag common in stylesheet-parsing dark mode tools. Applies a single GPU-accelerated `filter: invert(1) hue-rotate(180deg)` rule.
-
-![Lightweight Dark Mode viewer Demo](./assets/darkmodeviewer.png)
-
----
-
-**Key ideas:**
-
-- CSS-only injection (no MutationObserver or runtime loops)
-- Per-site toggle state using `browser.storage.local`
-- Safe content script re-injection to handle race conditions
-- Heuristic dark page detection via background luminance sampling
-
----
-
-**Tech:** Vanilla JS • CSS Filters • WebExtensions API (MV2)
-
-**Links:** 🦊 [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/lightweight-dark-mode-viewer/) • 📂 [Repository](https://github.com/AlexDegerman/lightweight-dark-mode-viewer)
-
----
-
 ### 🛒 E-commerce Website
 
 **Modern e-commerce SPA demonstrating product catalog, filtering, and cart management.**
