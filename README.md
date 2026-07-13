@@ -78,21 +78,21 @@ Building full-stack applications from planning through production deployment.
 
 ### 🎲 Full-Stack App - _RPS League App_
 
-**An infinite-scale, live-service Rock Paper Scissors prestige engine.** Players bet virtual points on high-frequency matches, progressing from thousands to **Vigintillions** via a native BigInt economy. Engineered to handle complex state orchestration, real-time concurrency, and cinematic UI transitions.
+**An infinite-scale, live-service Rock Paper Scissors prediction platform.** Players compete using virtual points on high-frequency live matches, progressing from thousands to astronomical values through a native BigInt economy. Built around real-time systems, continuous content updates, and extensible gameplay architecture.
 
 ![RPS League Demo](./assets/flasheventanimations.gif)
 
 **Key Features:**
 
-- **🌌 Infinite Scaling Engine**: Architected with native `BigInt` to handle astronomical values (10^63+) with zero precision loss. Features a custom formatting engine that maps numeric thresholds to dynamic visual tiers and animated UI themes.
-- **🧿 Strategic Metagame**: A deep progression layer featuring a permanent **Relic system** (collectible modifiers), **Chrono-Laps** (prestige resets/speedruns), and visual mastery unlocks that persist across resets.
-- **🎬 Spectacle Orchestration**: A priority-driven UI state machine that sequences Flash Events, Achievements, and Festivals into a seamless flow, preventing "interface exhaustion" during rapid 5s match cycles.
-- **🤖 AI Oracle & Prophecy**: A domain-specific Gemini-powered analyst providing snarky, data-grounded insights and "rigged" daily prophecies based on a 10,000+ match historical dataset.
-- **🧪 Production-Grade Observability**: Integrated Sentry for full-stack trace-link debugging, SSE heartbeat monitoring, and automated Discord-webhook telemetry for real-time system health.
+- **🌌 Infinite Scaling Engine**: Built on native `BigInt` with a custom formatting engine supporting astronomical values without precision loss, complete with dynamic visual tiers and progression styling.
+- **⚡ Real-Time Live Service**: A concurrency-aware Server-Sent Events architecture powers live matches, leaderboards, world events, activity feeds, and continuous gameplay with low-latency state updates.
+- **🎮 Extensible Gameplay Architecture**: Modular gameplay systems support Flash Events, Global Events, Player Festivals, Relics, achievements, and seasonal content while providing a foundation for future mechanics.
+- **🔮 AI Oracle**: A custom Gemini-powered Oracle combining live match telemetry with an extensive game knowledge base to deliver grounded analytics, gameplay explanations, player insights, and resilient low-latency responses through caching, guardrails, and automatic model fallback.
+- **🧪 Production-Grade Engineering**: Privacy-first telemetry, integrated observability, automated health monitoring, resilient SSE infrastructure, and production-focused security throughout the platform.
 
 **Tech Stack:** React (Next.js) • TypeScript • Zustand • Node.js (Express) • Supabase (PostgreSQL) • Server-Sent Events (SSE) • Gemini AI • Vitest • Sentry
 
-**Links:** 🌐 [Live Demo](https://rpsleaguegame.vercel.app/) • 📂 [Repository](https://github.com/AlexDegerman/rps-league-app)
+**Links:** 🌐 [Play Here](https://rpsleague.fi/?utm_source=github/) • 📂 [Repository](https://github.com/AlexDegerman/rps-league-app)
 
 ---
 
