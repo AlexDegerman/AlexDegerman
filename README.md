@@ -1,171 +1,71 @@
 ### 👋 Hi, I'm Alex Degerman
 
-**Junior Full-Stack Developer | React • Node.js • TypeScript • PostgreSQL**
+**Junior Full-Stack Developer. React, Next.js, TypeScript, Node.js, PostgreSQL**
 
-Helsinki-based full-stack developer focused on building high-performance, production-ready applications. I specialize in connecting complex backend systems with smooth, high-concurrency frontend experiences.
+Helsinki-based full-stack developer. I build and maintain production applications end to end: architecture, deployment, and ongoing operation.
 
-I have experience working in **Scrum-based teams** (Angular/Spring Boot) as well as independently delivering full-stack projects from architecture to cloud deployment. I also use AI tools as a technical sounding board for rapid prototyping and solving complex engineering challenges.
+🚀 **Live now:** [RPS League](https://rpsleague.fi), a real-time platform processing 17,000+ matches daily, in continuous production since launch.
 
-- 🚀 **Latest Release:** [RPS League](https://rpsleaguegame.vercel.app) - A real-time prediction platform handling **100k+ events** and **17k+ matches** daily.
-- 💼 **Available:** Eligible for **Helsinki-lisä** + **Nuorten rekrytointituki**, significantly reducing hiring costs for Finnish teams.
-- 📫 **Contact** [alex.degerman.dev@gmail.com](mailto:alex.degerman.dev@gmail.com) · [LinkedIn](https://www.linkedin.com/in/alex-degerman)
-- 📍 **Location:** Helsinki, Finland (Open to Hybrid/Remote)
+🔧 **Currently building:** new RPS League systems and seasonal content, plus new web apps such as an idle incremental and a tactical dispatch app. See [Changelog](https://github.com/AlexDegerman/rps-league-app/blob/main/CHANGELOG.MD) for the latest updates.
 
----
+💼 Eligible for Helsinki-lisä + Youth Recruitment Subsidy (up to €1,500/month, 18 months) for Finnish employers.
 
-## 🔥 Tech Stack
-
-### **Core**
-
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-404D59?style=flat)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-
-### **State Management & Testing**
-
-![Zustand](https://img.shields.io/badge/Zustand-5E4B8B?style=flat&logo=react&logoColor=white)
-![Redux Toolkit](https://img.shields.io/badge/Redux%20Toolkit-764ABC?style=flat&logo=redux&logoColor=white)
-![Jest](https://img.shields.io/badge/Jest-323330?logo=Jest&logoColor=white&style=flat)
-![Vitest](https://img.shields.io/badge/Vitest-6E9F18?logo=vitest&logoColor=white&style=flat)
-![React Testing Library](https://img.shields.io/badge/Testing%20Library-fff?logo=testing-library&style=flat)
-
-### **Frontend Styling & Frameworks**
-
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-
-### **Backend & Security**
-
-![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=flat&logo=sequelize&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens)
-![OAuth 2.0](https://img.shields.io/badge/OAuth_2.0-3D9970?style=flat&logo=auth0&logoColor=white)
-![reCAPTCHA](https://img.shields.io/badge/reCAPTCHA-4285F4?style=flat&logo=google&logoColor=white)
-
-### DevOps & Deployment
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
-![Render](https://img.shields.io/badge/Render-000000?style=flat&logo=render&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
-
-### Cloud & Database Infrastructure
-
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
-![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat&logo=railway&logoColor=white)
-![Aiven](https://img.shields.io/badge/Aiven-blue?style=flat)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
-
-### Monitoring & Observability
-
-![Sentry](https://img.shields.io/badge/Sentry-362D59?style=flat&logo=sentry&logoColor=white)
-
-### AI & Development Tools
-
-![Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=flat&logo=googlegemini&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=flat)
-![Claude](https://img.shields.io/badge/Claude-191919?style=flat&logo=anthropic&logoColor=white)
+📫 [alex.degerman.dev@gmail.com](mailto:alex.degerman.dev@gmail.com) · [LinkedIn](https://www.linkedin.com/in/alex-degerman) · Helsinki, Finland
 
 ---
 
-## 🎯 Featured Projects
+## Featured Projects
 
-Building full-stack applications from planning through production deployment.
+### 🎲 [RPS League](https://github.com/AlexDegerman/rps-league-app): real-time live-service platform
 
-### 🎲 Full-Stack App - _RPS League App_
+Sole developer and maintainer of a production Rock Paper Scissors prediction platform. Players predict high-frequency matches using virtual points; I run the system continuously, monitoring it, fixing issues, and shipping new features on an ongoing basis.
 
-**An infinite-scale, live-service Rock Paper Scissors prediction platform.** Players compete using virtual points on high-frequency live matches, progressing from thousands to astronomical values through a native BigInt economy. Built around real-time systems, continuous content updates, and extensible gameplay architecture.
+- Real-time SSE event pipeline, 5-second match cycle, 17,000+ automated
+  matches daily
+- Native BigInt economy for precise values at vigintillion scale
+- Gemini-powered AI Oracle with context grounding, caching, and
+  multi-model fallback
+- Production reliability: Sentry monitoring, structured logging, in-app
+  feedback system
 
-![RPS League Demo](./assets/flasheventanimations.gif)
+**Stack:** React (Next.js), TypeScript, Node.js (Express), PostgreSQL (Supabase), SSE, Gemini AI, Vitest
 
-**Key Features:**
+🌐 [rpsleague.fi](https://rpsleague.fi) · 📂 [Repo](https://github.com/AlexDegerman/rps-league-app)
 
-- **🌌 Infinite Scaling Engine**: Built on native `BigInt` with a custom formatting engine supporting astronomical values without precision loss, complete with dynamic visual tiers and progression styling.
-- **⚡ Real-Time Live Service**: A concurrency-aware Server-Sent Events architecture powers live matches, leaderboards, world events, activity feeds, and continuous gameplay with low-latency state updates.
-- **🎮 Extensible Gameplay Architecture**: Modular gameplay systems support Flash Events, Global Events, Player Festivals, Relics, achievements, and seasonal content while providing a foundation for future mechanics.
-- **🔮 AI Oracle**: A custom Gemini-powered Oracle combining live match telemetry with an extensive game knowledge base to deliver grounded analytics, gameplay explanations, player insights, and resilient low-latency responses through caching, guardrails, and automatic model fallback.
-- **🧪 Production-Grade Engineering**: Privacy-first telemetry, integrated observability, automated health monitoring, resilient SSE infrastructure, and production-focused security throughout the platform.
-
-**Tech Stack:** React (Next.js) • TypeScript • Zustand • Node.js (Express) • Supabase (PostgreSQL) • Server-Sent Events (SSE) • Gemini AI • Vitest • Sentry
-
-**Links:** 🌐 [Play Here](https://rpsleague.fi/?utm_source=github/) • 📂 [Repository](https://github.com/AlexDegerman/rps-league-app)
+![RPS League preview](./assets/flasheventanimations.gif)
 
 ---
 
-### 🎬 Full-Stack App - _MovieCritic_
+### 🎬 [MovieCritic](https://github.com/AlexDegerman/MovieCritic): full-stack movie platform
 
-**Full-stack movie discovery platform with infinite scroll, authentication, and 12,000+ movies.**  
-Browse movies powered by the TMDb API, share reviews with the community, and explore multilingual content (EN/FI). Built from concept to production deployment in 3 months, demonstrating end-to-end development capabilities.
+Capstone project: a movie discovery platform with 12,000+ titles, authentication, and multilingual support, built and deployed end to end in 3 months.
 
-![Infinite Scroll Demo](./assets/infinitescroll.gif)  
-[Full 1080p 60fps demo](https://youtu.be/67wY0n5HYX0)
+- JWT authentication, bcrypt hashing, Google reCAPTCHA v3
+- Infinite scroll with preemptive loading, no pagination buttons
+- Production database migrations across three cloud providers
 
-**Key Features:**
+**Stack:** React, Node.js (Express), MySQL (Sequelize), Docker
 
-- Infinite scroll with debounced scroll detection and preemptive loading at 80% scroll depth for seamless UX, no pagination buttons, no jarring jumps
-- Movie browsing with search and genre filters, seeded random order preserved across pages
-- Community-driven movie reviews and ratings
-- Smooth, reactive UI with React + Zustand
-- Secure access with JWT authentication and Google reCAPTCHA v3
-- Auto-login demo mode for instant exploration
-
-**Tech Stack:**  
-React • Zustand • Vite • Node.js • Express • MySQL (Sequelize) • Aiven • JWT • reCAPTCHA v3 • Docker • Render
-
-**Links:**  
-🌐 [Live Demo](https://moviecriticfi.onrender.com) (auto-login enabled) • 📂 [Repository](https://github.com/AlexDegerman/MovieCritic)
+🌐 [Live demo](https://moviecriticfi.onrender.com) (auto-login enabled) · 📂 [Repo](https://github.com/AlexDegerman/MovieCritic)
 
 ---
 
-### 🛒 E-commerce Website
+## Other Projects
 
-**Modern e-commerce SPA demonstrating product catalog, filtering, and cart management.**
-
-Showcases practical e-commerce patterns with carousel, category filtering, product pages, and cart calculations. Built with React, TypeScript, and Zustand for efficient state management.
-
-<img src="./assets/ecommerceapp-homepage.png" alt="EcommerceApp Homepage" width="280">
-
-**Key Features:**
-
-- Featured product carousel and category-based filtering
-- Dynamic product catalog with individual detail pages
-- Shopping cart with real-time total calculation
-
-**Tech Stack:** React • TypeScript • Zustand • Tailwind CSS • Next.js • Jest
-
-**Links:**  
-🌐 [Live Demo](https://e-commerce-app-next-red.vercel.app) • 📂 [Repository](https://github.com/AlexDegerman/e-commerce-app-next)
+- **[E-commerce SPA](https://github.com/AlexDegerman/e-commerce-app-next)**: product catalog, filtering, cart. React, TypeScript, Zustand. [Demo](https://e-commerce-app-next-red.vercel.app)
+- **[Weather App](https://github.com/AlexDegerman/weather-app-next)**: OAuth2 and forecast API. React, TypeScript, Redux Toolkit. [Demo](https://weather-app-next-rosy.vercel.app)
+- **[Todo App](https://github.com/AlexDegerman/to-do-app-ts)**: task manager with filtering and sorting. React, TypeScript, Redux Toolkit. [Demo](https://alexdegerman.github.io/to-do-app-ts)
 
 ---
 
-### 🌤️ Weather App
+## Tech Stack
 
-**City weather lookup with OAuth2 authentication and 2-day forecasts.**
+**Frontend:** React, Next.js, TypeScript, Zustand, Redux Toolkit, Tailwind CSS
 
-Simple weather application integrating WeatherAPI with Google OAuth2 login. Demonstrates API integration and authentication patterns.
+**Backend:** Node.js, Express, REST APIs, PostgreSQL, MySQL, Sequelize
 
-<img src="./assets/weatherapp-homepage.png" alt="Weather App Homepage" width="280">
+**DevOps:** Git, GitHub Actions, Docker, Vercel, Render, Sentry
 
-**Tech Stack:** React • TypeScript • Redux Toolkit • Next.js • Tailwind CSS • OAuth 2.0 • WeatherAPI
+**Testing:** Vitest, Jest, React Testing Library
 
-**Links:**  
-🌐 [Live Demo](https://weather-app-next-rosy.vercel.app) • 📂 [Repository](https://github.com/AlexDegerman/weather-app-next)
-
----
-
-### 📝 Todo App
-
-Task management SPA with filtering, sorting, and completion tracking.
-
-<img src="./assets/todoapp-homepage.png" alt="Todo App Homepage" width="250">
-
-Lightweight todo application built with React, TypeScript, and Redux Toolkit. Demonstrates state management patterns and responsive UI design with Tailwind CSS.
-
-**Tech Stack:** React • TypeScript • Redux Toolkit • Tailwind CSS • Vite • Vitest
-
-**Links:**  
-🌐 [Live Demo](https://alexdegerman.github.io/to-do-app-ts) • 📂 [Repository](https://github.com/AlexDegerman/to-do-app-ts)
+**Also:** Angular, Spring Boot, Java (vocational training and Scrum team projects)
