@@ -32,7 +32,7 @@ Sole developer and maintainer of a production Rock Paper Scissors prediction pla
 
 🌐 [rpsleague.fi](https://rpsleague.fi) · 📂 [Repo](https://github.com/AlexDegerman/rps-league-app)
 
-![RPS League preview](./assets/flasheventanimations.gif)
+![RPS League preview](./assets/rpsleaguehalfanniv.gif)
 
 ---
 
