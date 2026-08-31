@@ -2,11 +2,11 @@
 
 **Junior Full-Stack Developer. React, Next.js, TypeScript, Node.js, PostgreSQL**
 
-Helsinki-based full-stack developer. I build and maintain production applications end to end: architecture, deployment, and ongoing operation.
+Helsinki-based full-stack developer. I build production applications for the Arkalon universe end to end, from architecture and implementation to deployment, monitoring, and ongoing operation.
 
 🚀 **Live now:** [RPS League](https://rpsleague.fi), a real-time platform processing 17,000+ matches daily, in continuous production since launch.
 
-🔧 **Currently building:** new RPS League systems and seasonal content, plus new web apps such as an idle incremental and a tactical dispatch app. See [Changelog](https://github.com/AlexDegerman/rps-league-app/blob/main/CHANGELOG.MD) for the latest updates.
+🔧 **Currently building:** new applications and interactive experiences as part of the wider **[Arkalon universe](https://github.com/AlexDegerman?tab=repositories)**. RPS League's core experience is now complete and remains live in production, with future fixes, improvements, events, and features planned for later releases.
 
 💼 Eligible for Helsinki-lisä + Youth Recruitment Subsidy (up to €1,500/month, 18 months) for Finnish employers.
 
@@ -18,15 +18,12 @@ Helsinki-based full-stack developer. I build and maintain production application
 
 ### 🎲 [RPS League](https://github.com/AlexDegerman/rps-league-app): real-time live-service platform
 
-Sole developer and maintainer of a production Rock Paper Scissors prediction platform. Players predict high-frequency matches using virtual points; I run the system continuously, monitoring it, fixing issues, and shipping new features on an ongoing basis.
+Sole developer and maintainer of a production Rock Paper Scissors prediction platform. Players predict high-frequency matches using virtual points; I built the core experience end to end and run the system continuously in production, monitoring it, fixing issues, and continuing to develop future content and improvements.
 
-- Real-time SSE event pipeline, 5-second match cycle, 17,000+ automated
-  matches daily
+- Real-time SSE event pipeline, 5-second match cycle, 17,000+ automated matches daily
 - Native BigInt economy for precise values at vigintillion scale
-- Gemini-powered AI Oracle with context grounding, caching, and
-  multi-model fallback
-- Production reliability: Sentry monitoring, structured logging, in-app
-  feedback system
+- Gemini-powered AI Oracle with context grounding, caching, and multi-model fallback
+- Production reliability: Sentry monitoring, structured logging, in-app feedback system
 
 **Stack:** React (Next.js), TypeScript, Node.js (Express), PostgreSQL (Supabase), SSE, Gemini AI, Vitest
 
