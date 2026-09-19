@@ -33,6 +33,23 @@ Sole developer and maintainer of a production Rock Paper Scissors prediction pla
 
 ---
 
+### 🌐 [Arkalon Network](https://github.com/AlexDegerman/arkalon-network): central ecosystem hub & identity platform
+
+Architect and sole developer of the foundational identity and telemetry platform connecting the wider Arkalon universe. Acts as the anchor for all current and upcoming applications, synchronizing user identities, global telemetry, and session state across the ecosystem.
+
+- **Zero-Friction SSO**: Local-first account system with instant on-arrival provisioning, deterministic 3-word nicknames, and dual-cookie root domain authentication (`.rpsleague.fi`).
+- **AI Arkalon (RAG Engine)**: In-universe analytical oracle featuring sub-2ms hybrid semantic/keyword retrieval, multi-model fallback pipelines, and strict conversational lifecycle constraints.
+- **Ecosystem Directory & Telemetry**: Modular genre filtering, silent hype telemetry for roadmap prioritization, and dynamic application lifecycle status tracking across 16+ experiences.
+- **Production Security**: HMAC-SHA256 signed session tokens, constant-time verification, layered rate limiting, and ephemeral IP handling with zero PII storage.
+
+**Stack:** Next.js 16, React 19, TypeScript, Tailwind CSS v4, Zustand, PostgreSQL, Zod, Docker
+
+🌐 [network.rpsleague.fi](https://network.rpsleague.fi/) · 📂 [Repo](https://github.com/AlexDegerman/arkalon-network)
+
+![Arkalon Network preview](./assets/arkalon-network-demo.gif)
+
+---
+
 ### 🎬 [MovieCritic](https://github.com/AlexDegerman/MovieCritic): full-stack movie platform
 
 Capstone project: a movie discovery platform with 12,000+ titles, authentication, and multilingual support, built and deployed end to end in 3 months.
