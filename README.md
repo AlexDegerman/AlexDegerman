@@ -50,6 +50,24 @@ Architect and sole developer of the foundational identity and telemetry platform
 
 ---
 
+###  [Arkalon Daily](https://github.com/AlexDegerman/arkalon-daily): daily cognitive puzzle platform
+
+Architect and sole developer of a browser-based daily puzzle platform offering five distinct cognitive challenges. Each category delivers deterministic seeded puzzles identical for all players, with one attempt per day resetting at 00:00 UTC.
+
+- **Five Puzzle Categories**: Recall (working memory), Surge (reflex speed), Cipher (pattern logic), Strike (precision timing), and Depths (spatial deduction)
+- **Deterministic Engine**: HMAC-SHA256 seeded generation with server-side validation, ensuring identical challenges for all players without server-side game ticks
+- **Server-Authoritative Scoring**: Clients submit raw metrics; server recomputes all scores from scratch with zero client trust
+- **Streak & Leaderboard System**: Daily/weekly/all-time rankings with provisional status thresholds and yesterday's community review telemetry
+- **Share Cards & Audio**: Client-side html2canvas share generation with genre-distinct BGM and Arkalon Voice TTS commentary
+
+**Stack:** Next.js 16, React 19, TypeScript, Tailwind CSS v4, Zustand, PostgreSQL, Zod, Docker
+
+🌐 [daily.rpsleague.fi](https://daily.rpsleague.fi) · 📂 [Repo](https://github.com/AlexDegerman/arkalon-daily)
+
+![Arkalon Daily preview](./assets/arkalon-daily-showcase.gif)
+
+---
+
 ### 🎬 [MovieCritic](https://github.com/AlexDegerman/MovieCritic): full-stack movie platform
 
 Capstone project: a movie discovery platform with 12,000+ titles, authentication, and multilingual support, built and deployed end to end in 3 months.
